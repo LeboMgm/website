@@ -83,7 +83,7 @@ text-decoration: underline;
   padding: 3%;
 }
 .img{
-  width: 1,8rem;
+  width: 1.8rem;
 }
 
 .lebo-disc{
@@ -104,6 +104,13 @@ text-decoration: underline;
 .currently{
   padding-top: 20px;
   padding-bottom: 40px;
+}
+
+.btn: hover {
+  background-color: #555;
+  color: white;
+  transfer: scale(1.05);
+  transition: all 0.3s ease;
 }
 
 .btn {
