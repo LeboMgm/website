@@ -107,10 +107,10 @@ text-decoration: underline;
 }
 
 .btn: hover {
-  background-color: #555;
+  background-color: #43e126;
   color: white;
   transfer: scale(1.05);
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
 }
 
 .btn {
