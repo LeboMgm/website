@@ -153,9 +153,9 @@ text-decoration: underline;
 
 }
 
-.footer-link {
+.footer-link-l, .footer-link-f, .footer-link-w  {
   display: inline-block;
-  position:relative ;
+  position: relative ;
   padding-top: 20px;
   margin-right: 15px;
   margin-left: 15px;
@@ -167,7 +167,15 @@ text-decoration: underline;
   color: #11999E;
 }
 
-.footer-link:hover {
+.footer-link-l:hover {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+}
+.footer-link-f:hover {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+}
+.footer-link-w:hover {
   color: rgb(255, 255, 255);
   font-size: larger;
 }
@@ -183,4 +191,5 @@ text-decoration: underline;
   font-size: 10px;
 
 }
+
 
