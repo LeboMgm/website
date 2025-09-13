@@ -59,7 +59,7 @@ text-decoration: underline;
 }
 
 .skill-row{
-  width: 55%;
+  width: 60%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -98,7 +98,7 @@ text-decoration: underline;
   width: 40px;
   margin-top:50px;
   margin-bottom: 50px;
-  color: #EAF6F6;
+  color: #DDF2F2;
 }
 
 .currently{
@@ -167,6 +167,10 @@ text-decoration: underline;
   color: #11999E;
 }
 
+.footer-link:hover {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+}
 
 .copyright{
   position: relative;
@@ -179,3 +183,4 @@ text-decoration: underline;
   font-size: 10px;
 
 }
+
